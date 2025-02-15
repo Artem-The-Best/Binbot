@@ -1,7 +1,3 @@
-python-binance
-pandas
-numpy
-tensorflow
-keras
-scikit-learn
-aiogram
+ccxt
+python-dotenv
+asyncio
